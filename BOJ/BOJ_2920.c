@@ -26,7 +26,7 @@ int main(){
             }
             else{
                 check = 0;
-                break;
+                break; // mixed 이므로 반복문 탈출
             }
         }
     }
