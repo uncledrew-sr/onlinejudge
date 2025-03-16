@@ -15,7 +15,7 @@ int main(){
 
     float new_score_sum = 0;
     for(int i=0; i<N; i++){
-        new_score_sum += score[i] / max * 100;
+        new_score_sum += score[i] / max * 100; // 조작한 점수의 합을 구하기
     }
     float avg = new_score_sum / N;
     printf("%f\n", avg);
