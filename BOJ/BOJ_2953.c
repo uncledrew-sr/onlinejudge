@@ -12,7 +12,7 @@ int main(){
     int maximum = 0;
     int max_num = 0;
     for(int i=0; i<5; i++){
-        if(score_sum[i] > maximum){
+        if(score_sum[i] > maximum){ // 배열 원소에서 최댓값 구하는 알고리즘
             maximum = score_sum[i];
             max_num = i;
         }
