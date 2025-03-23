@@ -6,8 +6,9 @@
 
 ### Language
 - C/C++
-- Java
+- Javascript
 - Python
-
+- Java
+  
 ### DSA
 Data structure & Algorithm
