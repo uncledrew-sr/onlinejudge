@@ -10,5 +10,4 @@
 - Python
 - Java
   
-### DSA
-Data structure & Algorithm
+### Data structure & Algorithm
