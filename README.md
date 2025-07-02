@@ -4,7 +4,7 @@
 - Programmers
 
 ### Language
-- C/C++
-- Python
+- C
+- C++
   
 ### Data structure & Algorithm
