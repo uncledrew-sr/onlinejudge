@@ -7,3 +7,4 @@
 - C++
   
 ### Data structure & Algorithm
+- velog
